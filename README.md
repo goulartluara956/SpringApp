@@ -4,5 +4,3 @@
 
 
 Para rodar utilize: mvn spring-boot:run
-
-TEMPO DO VIDEO Spring Security 4 : 34.11
